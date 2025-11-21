@@ -1,5 +1,5 @@
-## Hi there 👋 I_AM_KOR_DEVELOPER_DONGHYUNKIM
-### GLAD_TO_MEET_U
+## Hi 👋 
+
 <details>
 <summary>
   <h3>🔽 My_Philosophy 🔽</h3>
