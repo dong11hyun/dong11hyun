@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### "개발은 도구를 다루는 일이 아니라 문제를 이해하고 답을 찾아가는 과정"
 <!--
 **dong11hyun/dong11hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
