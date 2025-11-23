@@ -1,4 +1,5 @@
 ## Hi 👋 
+[![Hey, I'm Jellybear!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Hey%2C%20I%27m%20Jellybear%21)](https://pimp-my-readme-next.vercel.app)
 
 <details>
 <summary>
