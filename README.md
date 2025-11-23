@@ -1,6 +1,5 @@
 ## Hi 👋 
 [![Hey, I'm Jellybear!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Hey%2C%20I%27m%20Jellybear%21)](https://pimp-my-readme-next.vercel.app)
-
 ```text
 DDDDDDDDDDDDD           HHHHHHHHH     HHHHHHHHH
 D::::::::::::DDD        H:::::::H     H:::::::H
@@ -19,8 +18,6 @@ D:::::::::::::::DD      H:::::::H     H:::::::H
 D::::::::::::DDD        H:::::::H     H:::::::H
 DDDDDDDDDDDDD           HHHHHHHHH     HHHHHHHHH                                               
 ```
-
-
 <details>
 <summary>
   <h3>🔽 My_Philosophy 🔽</h3>
