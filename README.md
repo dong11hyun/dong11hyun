@@ -1,22 +1,11 @@
 ## 👋 
 [![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Im_DONGHYUN)](https://pimp-my-readme-next.vercel.app)
 ```text
-DDDDDDDDDDDDD           HHHHHHHHH     HHHHHHHHH
-D::::::::::::DDD        H:::::::H     H:::::::H
-D:::::::::::::::DD      H:::::::H     H:::::::H
-DDD:::::DDDDD:::::D     HH::::::H     H::::::HH
-  D:::::D    D:::::D      H:::::H     H:::::H  
-  D:::::D     D:::::D     H:::::H     H:::::H  
-  D:::::D     D:::::D     H::::::HHHHH::::::H  
-  D:::::D     D:::::D     H:::::::::::::::::H  
-  D:::::D     D:::::D     H:::::::::::::::::H  
-  D:::::D     D:::::D     H::::::HHHHH::::::H  
-  D:::::D     D:::::D     H:::::H     H:::::H  
-  D:::::D    D:::::D      H:::::H     H:::::H  
-DDD:::::DDDDD:::::D     HH::::::H     H::::::HH
-D:::::::::::::::DD      H:::::::H     H:::::::H
-D::::::::::::DDD        H:::::::H     H:::::::H
-DDDDDDDDDDDDD           HHHHHHHHH     HHHHHHHHH                                               
+    ____                        __                    __ 
+   / __ )_________ __   _____  / /_  ___  ____ ______/ /_
+  / __  / ___/ __ `/ | / / _ \/ __ \/ _ \/ __ `/ ___/ __/
+ / /_/ / /  / /_/ /| |/ /  __/ / / /  __/ /_/ / /  / /_  
+/_____/_/   \__,_/ |___/\___/_/ /_/\___/\__,_/_/   \__/                                 
 ```
 <details>
 <summary>
