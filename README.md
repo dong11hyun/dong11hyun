@@ -1,5 +1,5 @@
-## Hi 👋 
-[![Hey, I'm DONGHYUN_시인_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=DONGHYUN_시인)](https://pimp-my-readme-next.vercel.app)
+## 👋 
+[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Im_DONGHYUN)](https://pimp-my-readme-next.vercel.app)
 ```text
 DDDDDDDDDDDDD           HHHHHHHHH     HHHHHHHHH
 D::::::::::::DDD        H:::::::H     H:::::::H
