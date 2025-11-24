@@ -1,11 +1,15 @@
 ## 👋 
-[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Im_DONGHYUN)](https://pimp-my-readme-next.vercel.app)
+[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=HELLO_IM_DONGHYUN)](https://pimp-my-readme-next.vercel.app)
 ```text
-    ____                        __                    __ 
-   / __ )_________ __   _____  / /_  ___  ____ ______/ /_
-  / __  / ___/ __ `/ | / / _ \/ __ \/ _ \/ __ `/ ___/ __/
- / /_/ / /  / /_/ /| |/ /  __/ / / /  __/ /_/ / /  / /_  
-/_____/_/   \__,_/ |___/\___/_/ /_/\___/\__,_/_/   \__/                                 
+ / /
+ L_L_
+/    \
+|00  |       _______
+|_/  |      /  ___  \
+|    |     /  /   \  \
+|    |_____\  \_  /  /
+ \          \____/  /_____
+  \ _______________/______\_-_-___---_____------___---_---___---<_<_                  
 ```
 <details>
 <summary>
