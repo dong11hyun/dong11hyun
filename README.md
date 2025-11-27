@@ -1,12 +1,11 @@
-## 👋Welcome!
-[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=HELLO_IM=DONGHYUN)](https://pimp-my-readme-next.vercel.app)
+## 👋Welcome! It's DongHyun's Github👋
+[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=I'm_DH_Enjoy_My_Contents)](https://pimp-my-readme-next.vercel.app)
 ```
- L_L_
-/    \
-|00  |       _______
-|_/  |      /  ___  \
-|    |     /  /   \  \
-|____|_____\__\___/__/              
+ L_L_  
+|00  | ➖➖ I m now learning Backend & Data Engineering
+|_/  | ➖➖ Language | FrameWork = [Python , SQL , Django] 
+|    | ➖➖ Database = [Mysql , MariaDB , Oracle , PostgreSQL , Reddis]
+|____| ➖➖ Dev Engineering = [AWS , SnowFlake , Spark, Kafka , Airflow , Databricks]
 ```
 
 ### 나의 철학 🔽
