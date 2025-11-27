@@ -7,6 +7,8 @@
 |    | ➖➖ Database = [Mysql , MariaDB , Oracle , PostgreSQL , Reddis]
 |____| ➖➖ Dev Engineering = [AWS , SnowFlake , Spark, Kafka , Airflow , Databricks]
 ```
+#### Notion (About Me)
+- https://www.notion.so/206113f6174b80d8a9ccd9b207ef4318?source=copy_link
 
 ### 나의 철학 🔽
 ---
