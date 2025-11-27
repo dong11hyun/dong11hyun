@@ -19,8 +19,10 @@
 ### Toy Project with code review and studying 🔽
 ---
 - [내 db 프로젝트 보러가기](https://github.com/dong11hyun/database_tradeoff.git)
-- "근거 없는 도입은 없다."
-- "고민을 얼마나 하였는가?"
-
+  > dfalsddafsdfsdf(설명)
+- [내 크롤링 프로젝트 보러가기](https://github.com/dong11hyun/B2_crawling.git)
+  > dfadffadsfs
+- [내 radius 프로젝트 보러가기](https://github.com/dong11hyun/A3_radius_collector_Public.git)
+  > afsdfdasfads
 ### Main project(pinned) 🔽
 ---
