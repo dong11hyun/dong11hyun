@@ -18,7 +18,7 @@
 
 ### Toy Project with code review and studying 🔽
 ---
-- "개발은 도구를 다루는 일이 아니라 문제를 이해하고 답을 찾아가는 과정"
+- [내 db 프로젝트 보러가기](https://github.com/dong11hyun/database_tradeoff.git)
 - "근거 없는 도입은 없다."
 - "고민을 얼마나 하였는가?"
 
