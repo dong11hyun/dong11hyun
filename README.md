@@ -1,9 +1,9 @@
 ## 👋Welcome! It's DongHyun's Github👋
 [![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=I'm_DH_Enjoy_My_Contents)](https://pimp-my-readme-next.vercel.app)
-```
+```python
  L_L_  
 |00  | ➖➖ I m now learning Backend & Data Engineering
-|_/  | ➖➖ Language | FrameWork = [Python , SQL , Django] 
+|_/  | ➖➖ Language | FrameWork = [Python , Sql , Django] 
 |    | ➖➖ Database = [Mysql ,
 |____| ➖➖ Dev Engineering = [
 ```
