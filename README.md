@@ -4,7 +4,7 @@
  L_L_  
 |00  | ➖➖ I m now learning Backend & Data Engineering
 |_/  | ➖➖ Language | FrameWork = [Python , Sql , Django] 
-|    | ➖➖ Database = [Mysql ,
+|    | ➖➖ Database = [Mysql , PostgreSql
 |____| ➖➖ Dev Engineering = [
 ```
 
