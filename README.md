@@ -23,5 +23,7 @@
   > dfadffadsfs
 - [내 radius 프로젝트 보러가기](https://github.com/dong11hyun/A3_radius_collector_Public.git)
   > afsdfdasfads
+- [내 배달로직 프로젝트](https://github.com/dong11hyun/B2_baedal.git)
+  > afsdfdasfads
 ### Main project(pinned) 🔽
 ---
