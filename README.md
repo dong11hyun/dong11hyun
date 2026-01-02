@@ -1,6 +1,9 @@
 ## 👋Welcome DongHyun's Github👋
-[![Hey, I'm DONGHYUN_!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Enjoy_My_Contents)](https://pimp-my-readme-next.vercel.app)
 
+## TECH STACK
+
+## Signature Project (pinned) 🔽
+- [경매쟁이 - 지역기반 실시간 경매 플랫폼](https://github.com/dong11hyun/Warehouse_AllAbout_project/blob/main/NeighborBid_Auction_Service/(1%EC%B0%A8)_%EC%B5%9C%EC%A2%85_Project_SUMMARY.md)
 
 ## 나의 철학 🔽
 - "개발은 도구를 다루는 일이 아니라 문제를 이해하고 답을 찾아가는 과정"
@@ -19,5 +22,3 @@
 - [내 배달로직 프로젝트](https://github.com/dong11hyun/B2_baedal.git)
   > afsdfdasfads
   
-## Signature Project (pinned) 🔽
-- [경매쟁이 - 지역기반 실시간 경매 플랫폼](https://github.com/dong11hyun/Warehouse_AllAbout_project/blob/main/NeighborBid_Auction_Service/(1%EC%B0%A8)_%EC%B5%9C%EC%A2%85_Project_SUMMARY.md)
