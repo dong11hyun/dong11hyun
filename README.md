@@ -27,4 +27,5 @@
 - [내 배달로직 프로젝트](https://github.com/dong11hyun/B2_baedal.git)
   > afsdfdasfads
 ### Main project(pinned) 🔽
+- [메인](https://github.com/dong11hyun/Warehouse_AllAbout_project/blob/main/NeighborBid_Auction_Service/(1%EC%B0%A8)_%EC%B5%9C%EC%A2%85_Project_SUMMARY.md)
 ---
