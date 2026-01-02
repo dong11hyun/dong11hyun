@@ -1,5 +1,5 @@
 ## 👋Welcome DongHyun's Github👋
-## Tech_Stack
+### Tech_Stack
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Signature Project (pinned) 🔽
+### Signature Project (pinned) 🔽
 - [경매쟁이 - 지역기반 실시간 경매 플랫폼](https://github.com/dong11hyun/Warehouse_AllAbout_project/blob/main/NeighborBid_Auction_Service/(1%EC%B0%A8)_%EC%B5%9C%EC%A2%85_Project_SUMMARY.md)
   
 ---
@@ -18,6 +18,7 @@
 - "고민을 얼마나 하였는가?"
 - "그래도 도입을 하던 안하던 써보면서 파악은 해봐야한다"
 
+---
 
 ### Toy Project with code review and studying 🔽
 - [내 db 프로젝트 보러가기](https://github.com/dong11hyun/database_tradeoff.git)
