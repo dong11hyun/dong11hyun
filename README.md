@@ -24,12 +24,12 @@
 ---
 
 #### Toy Project with code review and studying 🔽
-- [내 db 프로젝트 보러가기](https://github.com/dong11hyun/database_tradeoff.git)
-  > dfalsddafsdfsdf(설명)
+- [카카오맵(편의점) 폐업 검증 시스템](https://github.com/dong11hyun/A3_radius_collector_Public.git)
+  > 카카오맵 데이터의 정확성을 공공데이터와 교차 검증하여 폐업 매장을 자동 탐지
 - [내 크롤링 프로젝트 보러가기](https://github.com/dong11hyun/B2_crawling.git)
   > dfadffadsfs
-- [내 radius 프로젝트 보러가기](https://github.com/dong11hyun/A3_radius_collector_Public.git)
-  > afsdfdasfads
-- [내 배달로직 프로젝트](https://github.com/dong11hyun/B2_baedal.git)
-  > afsdfdasfads
+- [내 db 프로젝트 보러가기](https://github.com/dong11hyun/database_tradeoff.git)
+  > dfalsddafsdfsdf(설명)
+- [REST API 심층 탐구: 실시간 주문 처리 시스템의 상태 전이와 동시성 제어](https://github.com/dong11hyun/B2_baedal.git)
+  > 대규모 배달 플랫폼에서 발생할 수 있는 **동시성 문제**와 **데이터 정합성 이슈**를 분석하고, 이를 해결하는 **RESTful API 설계 패턴**을 연구/구현한 프로젝트
   
